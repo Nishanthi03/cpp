@@ -5,6 +5,15 @@
 Write your code in this editor and press "Debug" button to debug it.
 
 *******************************************************************************/
+ /*
+            Weather app
+Name: Nishanthi.c
+College: Vivekananda college of engineering for women
+ Used method:
+Switch case 
+*/
+
+
 
 #include <iostream>
 
